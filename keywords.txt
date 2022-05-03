@@ -1,3 +1,9 @@
+read file:
+img = imread("file03.jpg");
+
+show file:
+imshow(img)
+
 Inspect layers of the network by referencing Layers property:
 #indexing
 (network)variable.Property
